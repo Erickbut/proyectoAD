@@ -256,7 +256,7 @@ section {
 .header .logo h1 {
   font-size: 30px;
   font-weight: 700;
-  color: #fff;
+  color: #56b8e6;
   font-family: var(--font-secondary);
   margin: 0;
 }
@@ -434,7 +434,7 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #fff;
+    color: #928b8b;
   }
 
   .navbar .dropdown ul,
@@ -452,7 +452,7 @@ section {
   }
 
   .mobile-nav-show {
-    color: rgba(255, 255, 255, 0.9);
+    color: #56b8e6;
     font-size: 28px;
     cursor: pointer;
     line-height: 0;
@@ -460,7 +460,7 @@ section {
   }
 
   .mobile-nav-hide {
-    color: rgba(255, 255, 255, 0.9);
+    color: #56b8e6;
     font-size: 32px;
     cursor: pointer;
     line-height: 0;
